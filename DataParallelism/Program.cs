@@ -15,7 +15,8 @@ namespace DataParallelism
 	{
 		static void Main()
 		{
-			PlinqDemo();
+			Draw.DrawBitmap();
+			//PlinqDemo();
 			//CompareDifferentApproaches();
 
 			//PrimesAndPartitioner();
